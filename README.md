@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Shacore McKinnon
 
-<!--
-**smckinnon003/smckinnon003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a simple Peaceful Man
 
-Here are some ideas to get you started:
+- Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
+- Born in The Bronx Raised in all 5 boroughs Currently in Brooklyn.
+- Spend time with my family, read, workout, 
+- SMcKinnon003@gmail.com
 
-- My environmental background
+## Tech Stack:
+
+### Languages
+
 - Python
-- On future group projects
-- Advancing my technology competence
-- For help whether it be school or personal
-- You can reach me through slack ...
-- HE/HIM
-- I have 16 siblings 
--->
+
+### Frameworks & Libraries
+
+### Tools
+
+- Git
+- GitHub
